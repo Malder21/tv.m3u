@@ -15,7 +15,7 @@ http://moontools.me:8080/majochamb/zsKN66d9cA/1123726
 http://moontools.me:8080/majochamb/zsKN66d9cA/1123727
 #EXTINF:-1,||ES3|| ANDALUCIA TV HD
 http://moontools.me:8080/majochamb/zsKN66d9cA/1123728
-#EXTINF:-1,||ES3|| ANTENA 3 HD
+#EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://jetflyip.live/_nuxt/img/0d79dd9.png" group-title="Generalistas" tvg-name="Antena 3",Antena 3
 http://moontools.me:8080/majochamb/zsKN66d9cA/1123690
 #EXTINF:-1,||ES3|| ARAGON TV HD
 http://moontools.me:8080/majochamb/zsKN66d9cA/1123729
