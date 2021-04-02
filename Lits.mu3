@@ -5,7 +5,7 @@ http://moontools.me:8080/majochamb/zsKN66d9cA/25871
 http://moontools.me:8080/majochamb/zsKN66d9cA/1123756
 #EXTINF:-1,||ES3|| #V DIRECTO
 http://moontools.me:8080/majochamb/zsKN66d9cA/1123834
-#EXTINF:-1,||ES3|| 24 HORAS HD
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h
 http://moontools.me:8080/majochamb/zsKN66d9cA/1123724
 #EXTINF:-1,||ES3|| 7RM FHD
 http://moontools.me:8080/majochamb/zsKN66d9cA/1123725
