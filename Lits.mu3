@@ -9,7 +9,7 @@ http://moontools.me:8080/majochamb/zsKN66d9cA/1123834
 http://moontools.me:8080/majochamb/zsKN66d9cA/1123724
 #EXTINF:-1,||ES3|| 7RM FHD
 http://moontools.me:8080/majochamb/zsKN66d9cA/1123725
-#EXTINF:-1,||ES3|| A3SERIES HD
+#EXTINF:-1 tvg-id="Atreseries.TV" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200" group-title="Generalistas" tvg-name="Atreseries",Atreseries
 http://moontools.me:8080/majochamb/zsKN66d9cA/1123726
 #EXTINF:-1,||ES3|| AMC HD
 http://moontools.me:8080/majochamb/zsKN66d9cA/1123727
